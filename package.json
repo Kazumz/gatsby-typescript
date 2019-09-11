@@ -1,7 +1,7 @@
 {
-  "name": "kallum-parr",
+  "name": "gatsby-typescript",
   "private": true,
-  "description": "A business website advertising my capabilities",
+  "description": "A default template for Gatsby using TypeScript",
   "version": "0.1.0",
   "author": "Kallum Parr <kallum.parr@kallumparr.co.uk>",
   "dependencies": {
@@ -45,9 +45,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Kazumz/kallum-parr"
+    "url": "https://github.com/Kazumz/gatsby-typescript"
   },
   "bugs": {
-    "url": "https://github.com/Kazumz/kallum-parr/issues"
+    "url": "https://github.com/Kazumz/gatsby-typescript/issues"
   }
 }
