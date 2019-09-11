@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: `Kallum Parr`,
-    description: `A demonstation of my capabilities as a Developer.`,
+    title: `Gatsby-Typescript`,
+    description: `A default Gatsby template using TypeScript`,
     author: `Kallum Parr`,
   },
   plugins: [
