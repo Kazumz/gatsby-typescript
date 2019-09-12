@@ -19,6 +19,12 @@ Install this starter (assuming you have `gatsby-cli` installed) by running the f
 gatsby new project-name https://github.com/Kazumz/gatsby-typescript
 ```
 
+Alternatively, via git clone:
+
+```bash
+git clone https://github.com/Kazumz/gatsby-typescript
+```
+
 ## Developing
 
 A nodejs >= 6.0.0 setup is recommended.
