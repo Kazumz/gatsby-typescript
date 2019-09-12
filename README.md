@@ -8,7 +8,8 @@
 - TypeScript (3.6.x)
 - ESLint (You will need to specify your 'extends' in the ESLint config)
 - Basic component structure
-- SCSS with SCSS Modules
+- (S)CSS with (S)CSS Modules
+- ESNext Module System
 
 ## Geting started
 
